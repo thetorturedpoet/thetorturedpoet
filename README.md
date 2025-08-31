@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** with
 
 ## 🤝 Let's Connect!
 
-- 📬 You can reach me via andythet0rturedp0ett@gmail.com or connect with me on [Instagram] @thetorturedpoet____!
+- 📬 You can reach me via [Instagram] @andres__c17!
 - 🌐 Feel free to open issues or PRs on my projects. Let's collaborate! 😄
 
 
